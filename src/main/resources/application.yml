@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Deploy 1
+  server:
+    port: 7070
